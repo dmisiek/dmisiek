@@ -61,5 +61,5 @@ I'm Dominik, a full-time web & mobile developer 👨‍💻
 <img height="40" src="https://www.vectorlogo.zone/logos/discord/discord-official.svg" align="center" alt="akahXY4gBJ" />
 </a>
 <a href="https://buycoffee.to/dmfk">
-<img height="30" src="https://buycoffeeto.s3.eu-central-1.amazonaws.com/creator-asset/Color2_6c1dc16fb0.png" align="center" alt="Support me"/>
+<img height="40" src="https://raw.githubusercontent.com/dmisiek/dmisiek/refs/heads/master/images/buycoffee.gif" align="center" alt="Support me"/>
 </a>
