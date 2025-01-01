@@ -1,12 +1,10 @@
 ## Hi there 👋
-I'm Dominik, a full-time frontend developer 👨‍💻
+I'm Dominik, a full-time web & mobile developer 👨‍💻  
 
 ### About me
 
 ---
 ✨ Creating bugs **since 2020**
-
-🔭 I’m currently working on [RynekGPU](https://rynekgpu.dmisiek.pl/) & related projects
 
 👨‍💻 All of my projects are available at [dmisiek.pl](https://dmisiek.pl/)
 
@@ -54,14 +52,14 @@ I'm Dominik, a full-time frontend developer 👨‍💻
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.vectorlogo.zone/logos/laravel/images/fd9bffa7-873e-4946-92bc-815ed69faeec.svg" alt="laravel"  height="40" align="center"/> 
-</a> 
+</a>
 
 ### Contact & support
 
 ---
 <a  href="https://discord.gg/akahXY4gBJ" target="blank" style="margin-right: 30px">
-<img height="50" src="https://www.vectorlogo.zone/logos/discord/discord-official.svg" align="center" alt="akahXY4gBJ" />
+<img height="40" src="https://www.vectorlogo.zone/logos/discord/discord-official.svg" align="center" alt="akahXY4gBJ" />
 </a>
 <a href="https://buycoffee.to/dmfk">
-<img height="50" src="https://buycoffeeto.s3.eu-central-1.amazonaws.com/creator-asset/GIF1_97128b7bfc.gif" align="center" alt="Support me"/>
+<img height="30" src="https://buycoffeeto.s3.eu-central-1.amazonaws.com/creator-asset/Color2_6c1dc16fb0.png" align="center" alt="Support me"/>
 </a>
