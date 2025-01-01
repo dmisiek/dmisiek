@@ -1,8 +1,6 @@
 ## Hi there 👋
 I'm Dominik, a full-time frontend developer 👨‍💻
 
-![Banner](images/banner.png)
-
 ### About me
 
 ---
