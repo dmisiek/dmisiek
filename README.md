@@ -71,6 +71,6 @@ I'm Dominik, a full-time web & mobile developer 👨‍💻
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://buycoffee.to/dmfk">
-    <img height="40" src="https://raw.githubusercontent.com/dmisiek/dmisiek/refs/heads/master/images/buycoffee.gif" align="center" alt="Support me"/>
+    <img height="50" src="https://raw.githubusercontent.com/dmisiek/dmisiek/refs/heads/master/images/buycoffee.gif" align="center" alt="Support me"/>
     </a>
 </p>
