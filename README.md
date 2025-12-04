@@ -1,17 +1,15 @@
 ## Hi there 👋
 
-I'm Dominik, a full-time web & mobile developer 👨‍💻  
+I'm Dominik, a full-time mobile developer 👨‍💻  
 
 ### About me
 
 ---
 ✨ Creating bugs **since 2020**
 
-💡 All of my projects are available at [dmisiek.pl](https://dmisiek.pl/)
-
 💻 My coding stats available [here](https://codestats.net/users/dmisiek)
 
-⚡ Fun fact: I used to hate PHP for no reason
+⚡ Fun fact: my programming journey began with a simple statistics page for DBD (game). Later it ✨ just happened ✨
 
 ### Tech stack & soft
 
