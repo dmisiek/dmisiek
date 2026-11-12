@@ -22,11 +22,13 @@ run out, and maintenance reminders.
 
 **[RynekGPU](https://rynekgpu.dmisiek.pl/)** · web app · since 2022<br>
 Graphics card price tracker for the largest Polish stores. Prices collected three times a day, with history and min /
-median / max compared against MSRP.
+median / max compared against MSRP.<br>
+<sub>Co-author: [fkrzski](https://github.com/fkrzski)</sub>
 
 **[Dead by Stats](https://deadbystats.eu/)** · web app · 2022–2024<br>
 Dead by Daylight stats for any public Steam profile, with global leaderboards for 200+ stats. 12M+ lookups, 120K tracked
-players.
+players.<br>
+<sub>Co-author: [fkrzski](https://github.com/fkrzski)</sub>
 
 ### 🛠️ What I work with
 
