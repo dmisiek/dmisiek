@@ -1,5 +1,8 @@
 <a href="https://dmisiek.pl/">
-  <img src="images/header.png" alt="Dominik Misiek (dmisiek), fullstack developer · Flutter" width="100%" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dmisiek/dmisiek/master/images/header-mobile.png" />
+    <img src="images/header.png" alt="Dominik Misiek (dmisiek), fullstack developer · Flutter" width="100%" />
+  </picture>
 </a>
 
 ### Hi there 👋
@@ -52,4 +55,7 @@ players.<br>
 
 <a href="https://buycoffee.to/dmfk"><img height="50" src="images/buycoffee.gif" alt="Support me on buycoffee.to" /></a>
 
-<img src="images/footer.png" alt="" width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/dmisiek/dmisiek/master/images/footer-mobile.png" />
+  <img src="images/footer.png" alt="" width="100%" />
+</picture>
